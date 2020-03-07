@@ -1,0 +1,23 @@
+{
+  "name": "firstchatbot",
+  "version": "1.0.0",
+  "description": "This is the my first simple chat bot using Web Sockets",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Pushpendrahpx/NodeSocketChats.git"
+  },
+  "keywords": [
+    "Node"
+  ],
+  "author": "Pushpendra Vishwakarma",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Pushpendrahpx/NodeSocketChats/issues"
+  },
+  "homepage": "https://github.com/Pushpendrahpx/NodeSocketChats#readme"
+}
